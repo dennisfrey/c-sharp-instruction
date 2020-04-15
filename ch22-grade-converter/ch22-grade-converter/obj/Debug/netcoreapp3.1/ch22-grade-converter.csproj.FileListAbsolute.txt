@@ -1,0 +1,12 @@
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\bin\Debug\netcoreapp3.1\ch22-grade-converter.exe
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\bin\Debug\netcoreapp3.1\ch22-grade-converter.deps.json
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\bin\Debug\netcoreapp3.1\ch22-grade-converter.runtimeconfig.json
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\bin\Debug\netcoreapp3.1\ch22-grade-converter.runtimeconfig.dev.json
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\bin\Debug\netcoreapp3.1\ch22-grade-converter.dll
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\bin\Debug\netcoreapp3.1\ch22-grade-converter.pdb
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\obj\Debug\netcoreapp3.1\ch22-grade-converter.csproj.CoreCompileInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\obj\Debug\netcoreapp3.1\ch22-grade-converter.AssemblyInfoInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\obj\Debug\netcoreapp3.1\ch22-grade-converter.AssemblyInfo.cs
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\obj\Debug\netcoreapp3.1\ch22-grade-converter.dll
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\obj\Debug\netcoreapp3.1\ch22-grade-converter.pdb
+C:\repos-202003jbc\c-sharp-instruction\ch22-grade-converter\ch22-grade-converter\obj\Debug\netcoreapp3.1\ch22-grade-converter.genruntimeconfig.cache

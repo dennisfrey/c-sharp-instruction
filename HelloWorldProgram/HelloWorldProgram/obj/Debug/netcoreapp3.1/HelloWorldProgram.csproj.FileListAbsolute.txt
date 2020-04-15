@@ -1,0 +1,13 @@
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.exe
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.deps.json
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.runtimeconfig.json
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.runtimeconfig.dev.json
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.dll
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\bin\Debug\netcoreapp3.1\HelloWorldProgram.pdb
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.csprojAssemblyReference.cache
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.csproj.CoreCompileInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.AssemblyInfoInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.AssemblyInfo.cs
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.dll
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.pdb
+C:\repos-202003jbc\c-sharp-instruction\HelloWorldProgram\HelloWorldProgram\obj\Debug\netcoreapp3.1\HelloWorldProgram.genruntimeconfig.cache

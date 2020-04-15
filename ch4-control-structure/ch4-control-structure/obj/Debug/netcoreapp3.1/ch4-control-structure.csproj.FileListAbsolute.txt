@@ -1,0 +1,12 @@
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\bin\Debug\netcoreapp3.1\ch4-control-structure.exe
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\bin\Debug\netcoreapp3.1\ch4-control-structure.deps.json
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\bin\Debug\netcoreapp3.1\ch4-control-structure.runtimeconfig.json
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\bin\Debug\netcoreapp3.1\ch4-control-structure.runtimeconfig.dev.json
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\bin\Debug\netcoreapp3.1\ch4-control-structure.dll
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\bin\Debug\netcoreapp3.1\ch4-control-structure.pdb
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\obj\Debug\netcoreapp3.1\ch4-control-structure.csproj.CoreCompileInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\obj\Debug\netcoreapp3.1\ch4-control-structure.AssemblyInfoInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\obj\Debug\netcoreapp3.1\ch4-control-structure.AssemblyInfo.cs
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\obj\Debug\netcoreapp3.1\ch4-control-structure.dll
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\obj\Debug\netcoreapp3.1\ch4-control-structure.pdb
+C:\repos-202003jbc\c-sharp-instruction\ch4-control-structure\ch4-control-structure\obj\Debug\netcoreapp3.1\ch4-control-structure.genruntimeconfig.cache

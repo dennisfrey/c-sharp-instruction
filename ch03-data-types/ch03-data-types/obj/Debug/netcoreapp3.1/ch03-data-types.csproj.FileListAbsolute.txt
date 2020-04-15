@@ -1,0 +1,12 @@
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\bin\Debug\netcoreapp3.1\ch03-data-types.exe
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\bin\Debug\netcoreapp3.1\ch03-data-types.deps.json
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\bin\Debug\netcoreapp3.1\ch03-data-types.runtimeconfig.json
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\bin\Debug\netcoreapp3.1\ch03-data-types.runtimeconfig.dev.json
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\bin\Debug\netcoreapp3.1\ch03-data-types.dll
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\bin\Debug\netcoreapp3.1\ch03-data-types.pdb
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\obj\Debug\netcoreapp3.1\ch03-data-types.csproj.CoreCompileInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\obj\Debug\netcoreapp3.1\ch03-data-types.AssemblyInfoInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\obj\Debug\netcoreapp3.1\ch03-data-types.AssemblyInfo.cs
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\obj\Debug\netcoreapp3.1\ch03-data-types.dll
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\obj\Debug\netcoreapp3.1\ch03-data-types.pdb
+C:\repos-202003jbc\c-sharp-instruction\ch03-data-types\ch03-data-types\obj\Debug\netcoreapp3.1\ch03-data-types.genruntimeconfig.cache
